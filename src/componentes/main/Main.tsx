@@ -15,37 +15,37 @@ export default function Main(){
         {
             id:1,
             titulo:" Bairro Inteligente",
-            resumo:"Trabalho feito sobre Bairro Inteligente, feito em 2023..",
+            resumo:"Trabalho sobre Bairro Inteligente, feito em 2023.",
             imagem:"/Trabalho_bairroInteligente.png"
         },
         {
             id:2,
-            titulo:"Prototipo da Boutique Modas",
-            resumo:"Prototipo de wireframe de baixa fidelidade sobre um cadastro de uma loja de roupas , feito em  2022.",
+            titulo:"Boutique Modas",
+            resumo:"Protótipo de wireframe de baixa fidelidade do cadastro de uma loja de roupas , feito em  2022.",
             imagem:"/Trabalho_boutique.png"
         },
         {
             id:3,
             titulo:"Trabalho de Conclusão de Curso",
-            resumo:"Trabalho de conclusão de curso sobre um aplicativo de coleta seletiva para Naviraí-MS , está sendo feito em 2023.",
+            resumo:"Trabalho de conclusão de curso sobre um aplicativo de coleta seletiva para Naviraí-MS , que está sendo feito em 2023.",
             imagem:"Trabalho_tcc.png"
         },
         {
             id:4,
-            titulo:"Tabuleiro Poluição Hídrica",
-            resumo:"Prototipo de wireframe de alta fidelidade sobre um tabuleiro de poluição hidrica, feito em 2023.",
+            titulo:"Tabuleiro - Poluição Hídrica",
+            resumo:"Protótipo de wireframe de alta fidelidade de um tabuleiro de poluição hídrica, feito em 2023.",
             imagem:"Trabalho_tabuleiro.png"
         },
         {
             id:5,
             titulo:"CinePipoca",
-            resumo:"Prototipo de wireframe de alta fidelidade sobre um site de filmes, feito em 2022.",
+            resumo:"Protótipo de wireframe de alta fidelidade sobre um site de filmes, feito em 2022.",
             imagem:"Trabalho_cine.png"
         },
         {
             id:6,
-            titulo:"Fenol e Éter",
-            resumo:"Slide de apresentação sobre Fenois e Éteres, feito em 2023.",
+            titulo:"Fenóis e Éteres",
+            resumo:"Slide de apresentação sobre Fenóis e Éteres, feito em 2023.",
             imagem:"Trabalho_fenolEter.png"
         },
         {
@@ -57,19 +57,19 @@ export default function Main(){
         {
             id:8,
             titulo:"Virtual Book Store",
-            resumo:"Prototipo de wireframe de alta fidelidade sobre um site de livraria, feito em 2022.",
+            resumo:"Protótipo de wireframe de alta fidelidade sobre um site de livraria, feito em 2022.",
             imagem:"Trabalho_livraria.png"
         },
         {
             id:9,
             titulo:"Pet's Love Brasil",
-            resumo:"Prototipo de wireframe de alta fidelidade sobre um site de petshop, feito em 2022.",
+            resumo:"Protótipo de wireframe de alta fidelidade sobre um site de petshop, feito em 2022.",
             imagem:"Trabalho_petshop.png"
         },
         {
             id:10,
-            titulo:"Quimica das Drogas",
-            resumo:"Slide de apresentação sobre Cocaina, Crack e Ecstasy, feito em 2023.",
+            titulo:"Química das Drogas",
+            resumo:"Slide de apresentação sobre Cocaína, Crack e Ecstasy, feito em 2023.",
             imagem:"Trabalho_quimicaDrogas.png"
         }
 

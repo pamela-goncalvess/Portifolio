@@ -9,7 +9,7 @@ function Header(){
       <nav>
         <ul>
           <li>
-            <a href="#">Pagina Inicial</a>
+            <a href="#">Página Inicial</a>
             </li>
           <li>
             <a href="#">Sobre</a>

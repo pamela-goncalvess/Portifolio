@@ -1,21 +1,38 @@
 import './Footer.css'
+import LogoFacebook from '../../assets/iconeFacebook.png'
+import LogoInstagram from '../../assets/iconeInstagram.png'
 
-function Footer(){
+export default function Footer(){
     return(
-        <footer className='rodape' >
-            <h1 className='info1' >Pamela Gonçalves</h1>
-            <div className='div1'>
-                <h2>Sobre Mim</h2>
-                <a href="#">Informações</a>
-                <a href="#">Currículo</a>
-                <a href="#">Cursos</a>
+        <footer>
+            <div className="titulo_rodape">
+                <h1 className='titulo_rodape1'>Pamela Gonçalves</h1>
+                
+                <div className='img'>
+                    <img src={LogoFacebook} alt="" />
+                    <img src={LogoInstagram} alt="" />
+                </div>
             </div>
-            <div className='div2'>
-                <h2>Suporte</h2>
-                <a href="#">Política de Privacidade</a>
-                <a href="#">Termos e Condições</a>
+            <div className="info_rodape">
+
+                <div className='info_rodape1'>
+                    <ul>
+                        <li><a href="#">Sobre Mim:</a></li>
+                        <li><a href="#">Informações</a></li>
+                        <li><a href="#">Currículos</a></li>
+                        <li><a href="#">Cursos</a></li>
+                    </ul>
+                </div>
+
+                <div className='info_rodape1'>
+                    <ul>
+                        <li><a href="#">Suporte: </a></li>
+                        <li><a href="#">Política de Privacidade</a></li>
+                        <li><a href="#">Termos e Condições</a></li>
+                        <li><a href="#">Saiba mais</a></li>
+                    </ul>
+                </div>
             </div>
         </footer>
     )
 }
-export default Footer
