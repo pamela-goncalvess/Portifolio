@@ -15,7 +15,7 @@ export default function Main(){
         {
             id:1,
             titulo:" Bairro Inteligente",
-            resumo:"Trabalho feito sobre Bairro Inteligente, feito em 2023.",
+            resumo:"Trabalho feito sobre Bairro Inteligente, feito em 2023..",
             imagem:"/Trabalho_bairroInteligente.png"
         },
         {
