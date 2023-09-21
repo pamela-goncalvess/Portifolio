@@ -8,8 +8,9 @@ function App() {
 
     <>
    <Header/>
-   <Footer/>
    <Main/>
+   <Footer/>
+   
    </>
 
   )
