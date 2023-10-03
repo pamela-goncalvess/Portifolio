@@ -83,7 +83,7 @@ export default function Main(){
         <>
             <div className="pesquisa">
                 
-                <p>Qual trabalho deseja ver?</p>
+                <p>Que trabalho deseja ver?</p>
                 <input className='barrapesquisa' type="text" onChange={mudaTexto} />
                 <div>
                     <p className='texto_digitado'>pesquisa: {texto}</p>

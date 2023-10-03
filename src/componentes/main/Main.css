@@ -8,15 +8,11 @@
     justify-content: center;
     column-gap: 30px;
     row-gap: 30px;
-
-    /* gap: 30px;
-    flex-wrap: wrap;
-    justify-content: center; */
+    min-height: 53vh;
 }
 .barrapesquisa{
     height: 30px;
     border: 1px solid black;
-    /*border: 1px solid #bebebe;*/
     width: 200px;
     border-radius: 5px;
     font-size: 1.4rem;

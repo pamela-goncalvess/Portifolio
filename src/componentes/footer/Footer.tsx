@@ -19,7 +19,7 @@ export default function Footer(){
                     <ul>
                         <li><a href="#">Sobre Mim:</a></li>
                         <li><a href="#">Informações</a></li>
-                        <li><a href="#">Currículos</a></li>
+                        <li><a href="#">Currículo</a></li>
                         <li><a href="#">Cursos</a></li>
                     </ul>
                 </div>
