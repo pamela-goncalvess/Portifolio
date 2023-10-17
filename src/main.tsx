@@ -3,7 +3,7 @@ import './main.css'
 import Header from './componentes/header/Header'
 import Footer from './componentes/footer/Footer'
 import Main from './componentes/main/Main'
-import Contato from  './componentes/contato/Contato'
+import Contato from './componentes/contato/Contato'
 import * as ReactDOM from "react-dom/client";
 
 import {

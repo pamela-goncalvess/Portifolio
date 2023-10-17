@@ -4,7 +4,10 @@ import '../header/Header'
  function Contato(){
     return(
        <>
-            <form action="tela-contato">
+       <div className='titulo-contato'>
+            <p>Entre em contato:</p>       
+       </div>
+        <form className="tela-contato">
                 <div>
                     <label htmlFor="primeiro-nome">Primeiro Nome:</label>
                     <input type="texto" id="primeiro-nome" name="primeiro-nome-usuario"></input>
@@ -21,13 +24,11 @@ import '../header/Header'
                     <label htmlFor="mensagem">Digite sua mensagem:</label>
                     <textarea  id="texto" name="mensagem-usuario"></textarea>
                 </div>
-                    <div className="botao-enviar">
-                    <button type="submit">Enviar Mensagem</button>
+                <div >
+                    <button className="botao" type="submit">Enviar Mensagem</button>
                 </div>
-            </form>
-
+        </form>
        </>
     )
 }
-export default Contato      
-
+export default Contato

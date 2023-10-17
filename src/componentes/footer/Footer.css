@@ -8,7 +8,7 @@ a{
 footer{
     background-color: rgba(92, 18, 211, 0.534);
     padding: 50px;
-    margin-top: 50px;
+    margin-top: 288px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -22,8 +22,6 @@ footer{
     list-style: none;
     padding-left: 0px;
 }
-
-
 .titulo_rodape1{
     color: rgb(78, 5, 112);
     font-family: Arial, Helvetica, sans-serif;
